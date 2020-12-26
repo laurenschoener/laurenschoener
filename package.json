@@ -1,0 +1,22 @@
+{
+  "name": "laurenschoener",
+  "version": "1.0.0",
+  "description": "package file for github profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurenschoener/laurenschoener.git"
+  },
+  "author": "Lauren Schoener",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurenschoener/laurenschoener/issues"
+  },
+  "homepage": "https://github.com/laurenschoener/laurenschoener#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
+}
