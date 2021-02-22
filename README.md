@@ -1,6 +1,6 @@
 <h1 align="center">Hey!</h1> 
 
-<p>My name is Lauren Schoener and I'm a data scientist living in Seattle, Washington. </p>
+<p align="center">My name is Lauren Schoener and I'm a data scientist living in Seattle, Washington. </p>
 
 <hr>
 
@@ -19,6 +19,8 @@
 Currently working on:
 - Visualizing machine learning models using SHAP
 - Building a flask app
+
+
 
 Currently learning:
 - Docker
